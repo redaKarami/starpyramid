@@ -1,0 +1,14 @@
+C:\Users\karam\Desktop\starpyramid\bin\Debug\net8.0\starpyramid.exe
+C:\Users\karam\Desktop\starpyramid\bin\Debug\net8.0\starpyramid.deps.json
+C:\Users\karam\Desktop\starpyramid\bin\Debug\net8.0\starpyramid.runtimeconfig.json
+C:\Users\karam\Desktop\starpyramid\bin\Debug\net8.0\starpyramid.dll
+C:\Users\karam\Desktop\starpyramid\bin\Debug\net8.0\starpyramid.pdb
+C:\Users\karam\Desktop\starpyramid\obj\Debug\net8.0\starpyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\karam\Desktop\starpyramid\obj\Debug\net8.0\starpyramid.AssemblyInfoInputs.cache
+C:\Users\karam\Desktop\starpyramid\obj\Debug\net8.0\starpyramid.AssemblyInfo.cs
+C:\Users\karam\Desktop\starpyramid\obj\Debug\net8.0\starpyramid.csproj.CoreCompileInputs.cache
+C:\Users\karam\Desktop\starpyramid\obj\Debug\net8.0\starpyramid.dll
+C:\Users\karam\Desktop\starpyramid\obj\Debug\net8.0\refint\starpyramid.dll
+C:\Users\karam\Desktop\starpyramid\obj\Debug\net8.0\starpyramid.pdb
+C:\Users\karam\Desktop\starpyramid\obj\Debug\net8.0\starpyramid.genruntimeconfig.cache
+C:\Users\karam\Desktop\starpyramid\obj\Debug\net8.0\ref\starpyramid.dll
